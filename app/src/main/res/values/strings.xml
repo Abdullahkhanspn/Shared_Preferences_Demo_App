@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Shared Preferences Demo App</string>
+    <string name="i_am_not_populated">I am not populated</string>
+</resources>
